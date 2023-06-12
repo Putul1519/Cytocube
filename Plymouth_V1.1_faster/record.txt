@@ -1,0 +1,57 @@
+Legend: 
+  * - An event occurred.
+  > - A write operation occurred.
+  < - A read operation occurred.
+ 
+1      Recording on 08-Aug-2022 at 13:57:53.493. Binary data in little endian format.
+2      > 2 ascii values.
+3      > 2 ascii values.
+4      > 2 ascii values.
+5      > 2 ascii values.
+6      > 2 ascii values.
+7      > 2 ascii values.
+8      > 2 ascii values.
+9      > 2 ascii values.
+10     > 2 ascii values.
+11     > 2 ascii values.
+12     > 2 ascii values.
+13     > 2 ascii values.
+14     > 2 ascii values.
+15     > 2 ascii values.
+16     > 2 ascii values.
+17     > 2 ascii values.
+18     > 2 ascii values.
+19     > 2 ascii values.
+20     > 2 ascii values.
+21     > 2 ascii values.
+22     > 2 ascii values.
+23     > 2 ascii values.
+24     > 2 ascii values.
+25     > 2 ascii values.
+26     > 2 ascii values.
+27     > 2 ascii values.
+28     > 2 ascii values.
+29     > 2 ascii values.
+30     > 2 ascii values.
+31     > 2 ascii values.
+32     > 4 ascii values.
+33     > 4 ascii values.
+34     > 4 ascii values.
+35     > 4 ascii values.
+36     > 4 ascii values.
+37     > 4 ascii values.
+38     > 4 ascii values.
+39     > 4 ascii values.
+40     > 4 ascii values.
+41     > 4 ascii values.
+42     > 4 ascii values.
+43     > 4 ascii values.
+44     > 4 ascii values.
+45     > 4 ascii values.
+46     > 4 ascii values.
+47     > 4 ascii values.
+48     > 4 ascii values.
+49     > 4 ascii values.
+50     > 4 ascii values.
+51     > 4 ascii values.
+52     > 4 ascii values.
